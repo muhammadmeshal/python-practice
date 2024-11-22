@@ -1,0 +1,55 @@
+Local git install:
+https://git-scm.com/downloads/win
+
+
+git config --global user.email muhammadmeshal01@gmail.com
+git config --global user.name 'muhammadmeshal'
+
+
+
+git initialization
+
+=> git init
+
+
+Git add & commit
+
+=> git add .
+=> git commit -m 'message' # Topic name
+
+
+Git push
+
+=> git push
+
+
+
+Git pull
+
+=> git pull # Pull from local branch
+
+
+Git branch check
+
+=> git branch
+
+Git pull from a branch
+
+ => git pull origin 'branch name' # branch name
+
+
+Git Branch change in local
+
+=> git checkout mofasser
+
+
+Git create a branch
+
+=> git checkout -b 'feature/ui'
+
+
+
+Git clone
+
+=> git clone https://github.com/muhammadmeshal/python-practice.git
+
